@@ -85,4 +85,4 @@ Após estas cinco fases de desenvolvimento, temos um jogo funcional. Mas ainda e
 - Adicionar efeitos de explosão
 - etc.
 
-# Fim
+# Fim :)
